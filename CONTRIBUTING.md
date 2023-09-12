@@ -11,7 +11,9 @@ Agradeço por seu interesse em contribuir para a Pokedex! As contribuições de 
 8. **Crie um Pull Request:** Abra um Pull Request para o repositório original. Certifique-se de incluir uma descrição detalhada das suas alterações.
 9. **Merging:** Uma vez que suas alterações sejam aprovadas, elas serão mescladas na branch principal.
 ## Diretrizes de Contribuição
-- Respeite o [código de conduta](https://github.com/KaFLo0/pokedex/blob/main/CODE_OF_CONDUCT.md) do projeto.
+- Respeite o [código de conduta](./CODE_OF_CONDUCT.md) do projeto.
 - Mantenha um tom respeitoso e profissional nas discussões.
 - Documente suas alterações, especialmente se forem alterações significativas ou novos recursos.
 - Siga as [convenções de commits](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md) se aplicável.
+## Licença
+Ao contribuir, você concorda que suas contribuições serão licenciadas pelo [MIT license](./LICENSE)
